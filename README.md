@@ -4,7 +4,7 @@ I'm a 14 Years old discord dev.
 
 More about me:
 - :rocket: I’m currently working on [@KingSafe](https://github.com/pabloast00/kingsafe)
-- 😄 Pronouns: she/her
+- 😄 Pronouns: he/him
 - :star: Fun fact: my favorite series are This is Us and Anne with an E
 - 💬  Ask me about anything [here](https://github.com/pabloast00/pabloast00/issues)
 <br/>
